@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
 |  |
 | ------- |
