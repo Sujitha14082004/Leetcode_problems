@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
