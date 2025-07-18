@@ -58,11 +58,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
@@ -102,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
