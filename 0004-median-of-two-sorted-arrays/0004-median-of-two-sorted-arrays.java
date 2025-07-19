@@ -4,10 +4,10 @@ class Solution {
         int b = nums2.length;
         int[] ans = new int[a+b];
         int k=0;
-        for(int i=0;i<nums1.length;i++){
+        for(int i=0;i<a;i++){
             ans[k++]=nums1[i];
         }
-        for(int j=0;j<nums2.length;j++){
+        for(int j=0;j<b;j++){
             ans[k++]=nums2[j];
         }
         Arrays.sort(ans);
@@ -17,7 +17,7 @@ class Solution {
             median = (double)(ans[middle]+ans[middle-1])/2;
         }
         else{
-            median = (double)ans[middle];
+            median = (double)(ans[middle]);
         }
         return median;
     }
