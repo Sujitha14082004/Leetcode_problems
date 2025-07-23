@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3582-find-indices-of-stable-mountains) |
 ## Binary Search
