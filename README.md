@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
