@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 ## Divide and Conquer
 |  |
 | ------- |
