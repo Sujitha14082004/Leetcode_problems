@@ -1,20 +1,12 @@
 class Solution {
     public String reversePrefix(String word, char ch) {
-
-        //find the index of character
-        int index = word.indexOf(ch);
-        
-        //if the character is not found
-        if(index==-1){
+        int i=word.indexOf(ch);
+        if(i==-1){
             return word;
         }
-        StringBuilder prefix = new StringBuilder (word.substring(0,index+1));
-
-        //reverse the prefix
-        prefix.reverse();
-
-        //append the reversed character and the remaining character
-        word = prefix.toString()+word.substring(index+1);
+        StringBuilder sb=new StringBuilder(word.substring(0,i+1));
+        sb.reverse();
+        word=sb.toString()+word.substring(i+1);
         return word;
     }
 }
