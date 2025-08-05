@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0010-regular-expression-matching) |
+| [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 ## Merge Sort
