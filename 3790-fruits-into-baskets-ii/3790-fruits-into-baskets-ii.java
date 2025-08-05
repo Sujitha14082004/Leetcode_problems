@@ -5,13 +5,13 @@ class Solution {
             boolean fruitplaced=false;
             for(int j=0;j<baskets.length;j++){
                 if(baskets[j]>=fruits[i]){
-                    baskets[j]=-1;   
+                    baskets[j]=-1;   // fruit placed in a basket
                     fruitplaced=true;
-                    break;
+                    break; // after fruit placed it will exit the loop
                 }
             }
             if(!fruitplaced){
-                unplaced++;
+                unplaced++;   // fruit not placed
             }
         }
         return unplaced;
