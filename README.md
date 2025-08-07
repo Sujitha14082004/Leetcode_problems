@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0009-palindrome-number) |
 | [0168-excel-sheet-column-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0319-bulb-switcher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0319-bulb-switcher) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
