@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1245-user-activity-for-the-past-30-days-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1827-invalid-tweets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1827-invalid-tweets) |
