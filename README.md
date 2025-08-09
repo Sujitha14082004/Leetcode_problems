@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
