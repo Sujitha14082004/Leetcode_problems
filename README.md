@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0319-bulb-switcher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0319-bulb-switcher) |
