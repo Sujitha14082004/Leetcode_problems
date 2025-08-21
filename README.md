@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2580-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2580-circular-sentence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
