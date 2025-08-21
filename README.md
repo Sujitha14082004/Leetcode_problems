@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
