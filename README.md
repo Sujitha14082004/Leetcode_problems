@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
 | ------- |
