@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3723-sum-of-good-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3723-sum-of-good-numbers) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
+| [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
