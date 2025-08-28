@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1833-find-the-highest-altitude) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Quickselect
 |  |
