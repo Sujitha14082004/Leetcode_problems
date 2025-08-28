@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0672-bulb-switcher-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0672-bulb-switcher-ii) |
+| [0866-rectangle-overlap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1448-maximum-69-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1448-maximum-69-number) |
@@ -333,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
+## Geometry
+|  |
+| ------- |
+| [0866-rectangle-overlap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0866-rectangle-overlap) |
 <!---LeetCode Topics End-->
