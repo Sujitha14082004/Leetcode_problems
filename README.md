@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1258-article-views-i) |
 | [1625-group-sold-products-by-the-date](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1625-group-sold-products-by-the-date) |
+| [1670-patients-with-a-condition](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2041-the-latest-login-in-2020](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2041-the-latest-login-in-2020) |
