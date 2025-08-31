@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2571-find-the-pivot-integer) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2955-account-balance-after-rounded-purchase](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
