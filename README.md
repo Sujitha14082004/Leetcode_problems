@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
