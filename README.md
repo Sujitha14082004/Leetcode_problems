@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0168-excel-sheet-column-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -366,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
 ## Geometry
 |  |
@@ -379,4 +384,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
