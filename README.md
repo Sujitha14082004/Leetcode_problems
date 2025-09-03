@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0461-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0672-bulb-switcher-ii) |
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
