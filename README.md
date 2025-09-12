@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2580-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2580-circular-sentence) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2886-faulty-keyboard) |
 ## Database
 |  |
 | ------- |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2886-faulty-keyboard) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## String Matching
 |  |
