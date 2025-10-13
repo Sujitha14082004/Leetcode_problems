@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
 | [0672-bulb-switcher-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0866-rectangle-overlap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
