@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
