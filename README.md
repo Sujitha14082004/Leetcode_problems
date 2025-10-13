@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
 ## Array
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
