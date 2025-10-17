@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0441-arranging-coins](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0441-arranging-coins) |
 | [0672-bulb-switcher-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0672-bulb-switcher-ii) |
 | [0866-rectangle-overlap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
