@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Prefix Sum
 |  |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
 ## Heap (Priority Queue)
 |  |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
