@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [3952-trionic-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3952-trionic-array-i) |
 | [4008-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4008-restore-finishing-order) |
+| [4058-compute-alternating-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4058-compute-alternating-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3651-transformed-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3651-transformed-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [4058-compute-alternating-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
 | ------- |
