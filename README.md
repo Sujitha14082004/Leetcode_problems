@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-group-sold-products-by-the-date](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1625-group-sold-products-by-the-date) |
 | [1670-patients-with-a-condition](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1670-patients-with-a-condition) |
 | [1827-invalid-tweets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1827-invalid-tweets) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1908-recyclable-and-low-fat-products) |
 | [2041-the-latest-login-in-2020](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2041-the-latest-login-in-2020) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
