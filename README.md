@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [1642-water-bottles](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1642-water-bottles) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2571-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2571-find-the-pivot-integer) |
@@ -507,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0386-lexicographical-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
