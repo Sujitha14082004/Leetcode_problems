@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0010-regular-expression-matching) |
+| [0014-longest-common-prefix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0079-word-search) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0075-sort-colors) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0386-lexicographical-numbers) |
 ## Enumeration
 |  |
