@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1539-kth-missing-positive-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-richest-customer-wealth) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
