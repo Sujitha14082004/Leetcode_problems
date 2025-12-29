@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -544,4 +547,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
+| [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
