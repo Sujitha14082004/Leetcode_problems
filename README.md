@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1417-reformat-the-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1417-reformat-the-string) |
 | [1542-consecutive-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1542-consecutive-characters) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1797-goal-parser-interpretation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1797-goal-parser-interpretation) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
