@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
