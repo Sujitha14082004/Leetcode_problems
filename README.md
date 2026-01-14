@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1009-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Sorting
 |  |
