@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2670-find-the-distinct-difference-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
+| [2670-find-the-distinct-difference-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
