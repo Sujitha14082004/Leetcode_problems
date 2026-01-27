@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2020-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2020-remove-one-element-to-make-the-array-strictly-increasing) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
