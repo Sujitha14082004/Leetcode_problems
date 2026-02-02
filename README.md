@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
+| [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0461-hamming-distance) |
 | [0672-bulb-switcher-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0672-bulb-switcher-ii) |
+| [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1009-complement-of-base-10-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
+| [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
+| [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1642-water-bottles](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1642-water-bottles) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1791-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-richest-customer-wealth) |
