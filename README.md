@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1791-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1448-maximum-69-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1448-maximum-69-number) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1791-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-richest-customer-wealth) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
