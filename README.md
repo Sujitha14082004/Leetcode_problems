@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0441-arranging-coins](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0441-arranging-coins) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
