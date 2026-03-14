@@ -6,7 +6,7 @@ class Solution {
             if(s.charAt(i)=='1'){
                 ones++;
             }
-            else if(s.charAt(i)=='0' && ones>0 && s.charAt(i-1)=='1'){
+            else if(i>0 && s.charAt(i)=='0' && ones>0 && s.charAt(i-1)=='1'){
                 count+=ones;
             }
         }
