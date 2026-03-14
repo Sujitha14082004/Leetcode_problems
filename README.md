@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2886-faulty-keyboard) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Database
 |  |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Recursion
 |  |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Brainteaser
