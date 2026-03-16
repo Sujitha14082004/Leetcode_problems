@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
+| [2129-capitalize-the-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2129-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
