@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2580-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2580-circular-sentence) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -422,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0496-next-greater-element-i) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Merge Sort
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2717-semi-ordered-permutation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2717-semi-ordered-permutation) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2886-faulty-keyboard](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2886-faulty-keyboard) |
