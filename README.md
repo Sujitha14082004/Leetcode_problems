@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [4008-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 ## String
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3582-find-indices-of-stable-mountains](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3582-find-indices-of-stable-mountains) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3651-transformed-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3651-transformed-array) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-longest-fibonacci-subarray](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3723-sum-of-good-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3723-sum-of-good-numbers) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Brainteaser
 |  |
