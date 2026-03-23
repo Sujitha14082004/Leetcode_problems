@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
