@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0575-distribute-candies) |
 | [0724-find-pivot-index](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0766-toeplitz-matrix) |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0200-number-of-islands) |
+| [0766-toeplitz-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
