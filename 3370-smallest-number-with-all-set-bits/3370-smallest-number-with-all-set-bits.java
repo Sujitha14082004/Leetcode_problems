@@ -1,9 +1,9 @@
 class Solution {
     public int smallestNumber(int n) {
-        int power=1;
-        while(power<=n){
-            power*=2;
+        int r=1;
+        while(r<n){
+            r=r*2+1;
         }
-        return power-1;
+        return r;
     }
 }
