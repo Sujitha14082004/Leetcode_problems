@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0482-license-key-formatting) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0541-reverse-string-ii) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0812-rotate-string) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
