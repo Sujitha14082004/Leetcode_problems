@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2129-capitalize-the-title) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
