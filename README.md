@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3861-minimum-capacity-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3861-minimum-capacity-box) |
 | [3952-trionic-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3952-trionic-array-i) |
 | [4008-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4008-restore-finishing-order) |
 | [4058-compute-alternating-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4058-compute-alternating-sum) |
