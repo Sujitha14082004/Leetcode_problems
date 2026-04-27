@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1417-reformat-the-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1417-reformat-the-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1542-consecutive-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1542-consecutive-characters) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -567,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0812-rotate-string) |
+| [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Depth-First Search
 |  |
