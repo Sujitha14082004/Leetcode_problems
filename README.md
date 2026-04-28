@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3625-stone-removal-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3625-stone-removal-game) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3783-mirror-distance-of-an-integer) |
 | [3830-find-closest-person](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3830-find-closest-person) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3625-stone-removal-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3651-transformed-array) |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 | [4058-compute-alternating-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4058-compute-alternating-sum) |
