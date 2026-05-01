@@ -370,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0866-rectangle-overlap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0866-rectangle-overlap) |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1115-valid-boomerang) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0319-bulb-switcher) |
+| [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 ## Simulation
 |  |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 ## Rolling Hash
 |  |
