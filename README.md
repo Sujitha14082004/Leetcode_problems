@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2490-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2490-circular-sentence) |
 | [2580-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2580-circular-sentence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
