@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0187-repeated-dna-sequences) |
+| [0242-valid-anagram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0415-add-strings) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
