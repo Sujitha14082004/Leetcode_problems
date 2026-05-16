@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1115-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1013-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
