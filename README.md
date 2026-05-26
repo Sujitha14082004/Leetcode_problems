@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2886-faulty-keyboard](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3019-number-of-changing-keys) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
