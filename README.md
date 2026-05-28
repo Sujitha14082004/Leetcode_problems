@@ -299,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2602-maximum-enemy-forts-that-can-be-captured](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2602-maximum-enemy-forts-that-can-be-captured) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [2670-find-the-distinct-difference-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
@@ -712,6 +713,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
+| [2643-row-with-maximum-ones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2643-row-with-maximum-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph
