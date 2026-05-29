@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
