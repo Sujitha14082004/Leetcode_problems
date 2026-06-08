@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -612,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2128-reverse-prefix-of-word) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2465-number-of-distinct-averages](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
