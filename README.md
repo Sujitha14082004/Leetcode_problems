@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3803-count-residue-prefixes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3803-count-residue-prefixes) |
+| [3838-weighted-word-mapping](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3856-trim-trailing-vowels) |
 ## Database
 |  |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [3861-minimum-capacity-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3861-minimum-capacity-box) |
 | [3952-trionic-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3952-trionic-array-i) |
 | [4008-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4008-restore-finishing-order) |
@@ -685,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
+| [3838-weighted-word-mapping](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3838-weighted-word-mapping) |
 | [4058-compute-alternating-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/4058-compute-alternating-sum) |
 ## String Matching
 |  |
