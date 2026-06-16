@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2540-minimum-common-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2670-find-the-distinct-difference-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2670-find-the-distinct-difference-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2540-minimum-common-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2571-find-the-pivot-integer) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
@@ -675,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
