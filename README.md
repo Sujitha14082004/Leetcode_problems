@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1732-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1791-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-richest-customer-wealth) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1732-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1983-maximum-population-year) |
