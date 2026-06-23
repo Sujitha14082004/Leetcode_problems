@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
 | [2350-find-closest-number-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -587,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
+| [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2833-furthest-point-from-origin) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
