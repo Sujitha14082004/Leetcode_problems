@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0482-license-key-formatting) |
+| [0520-detect-capital](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
