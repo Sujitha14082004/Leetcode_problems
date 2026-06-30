@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1920-build-array-from-permutation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -692,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1642-water-bottles) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
