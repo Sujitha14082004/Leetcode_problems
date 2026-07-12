@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1331-rank-transform-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1331-rank-transform-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
