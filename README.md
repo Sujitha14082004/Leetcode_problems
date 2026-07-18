@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1975-minimum-distance-to-the-target-element) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1983-maximum-population-year](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1983-maximum-population-year) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [1965-sum-of-digits-in-base-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1965-sum-of-digits-in-base-k) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -842,6 +844,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Trie
