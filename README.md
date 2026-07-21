@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1833-find-the-highest-altitude) |
 | [1983-maximum-population-year](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2485-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2571-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2574-left-and-right-sum-differences) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2485-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
