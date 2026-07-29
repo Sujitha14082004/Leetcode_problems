@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1983-maximum-population-year](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
