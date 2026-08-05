@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3731-find-missing-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3803-count-residue-prefixes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3803-count-residue-prefixes) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-longest-fibonacci-subarray](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
 | [3723-sum-of-good-numbers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3723-sum-of-good-numbers) |
+| [3731-find-missing-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -595,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3731-find-missing-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
