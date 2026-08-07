@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-number-of-distinct-averages](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2465-number-of-distinct-averages) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2490-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2490-circular-sentence) |
 | [2580-circular-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2580-circular-sentence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -653,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
+| [2351-first-letter-to-appear-twice](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2833-furthest-point-from-origin) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
