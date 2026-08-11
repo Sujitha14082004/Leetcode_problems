@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2951-find-the-peaks) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
@@ -600,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
