@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0724-find-pivot-index) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1833-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1833-find-the-highest-altitude) |
