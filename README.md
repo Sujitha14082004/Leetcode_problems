@@ -541,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
+| [3560-find-minimum-log-transportation-cost](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3560-find-minimum-log-transportation-cost) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3625-stone-removal-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3625-stone-removal-game) |
