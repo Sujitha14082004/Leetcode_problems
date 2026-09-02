@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2317-maximum-xor-after-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2317-maximum-xor-after-operations) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2347-best-poker-hand](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2347-best-poker-hand) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2317-maximum-xor-after-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2317-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
+| [2317-maximum-xor-after-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2317-maximum-xor-after-operations) |
 | [2351-first-letter-to-appear-twice](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
