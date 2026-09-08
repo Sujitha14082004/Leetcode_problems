@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1813-maximum-erasure-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1813-maximum-erasure-value) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1797-goal-parser-interpretation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1797-goal-parser-interpretation) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1935-maximum-number-of-words-you-can-type](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [1944-truncate-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1944-truncate-sentence) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
