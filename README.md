@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3463-alternating-groups-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3463-alternating-groups-i) |
+| [3467-transform-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -633,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
+| [3467-transform-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3467-transform-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3467-transform-array-by-parity) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Recursion
 |  |
