@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
