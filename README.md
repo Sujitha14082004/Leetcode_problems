@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3280-convert-date-to-binary) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3803-count-residue-prefixes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3803-count-residue-prefixes) |
@@ -825,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3336-water-bottles-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3336-water-bottles-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3625-stone-removal-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3625-stone-removal-game) |
 | [3651-transformed-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3651-transformed-array) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3726-remove-zeros-in-decimal-representation) |
