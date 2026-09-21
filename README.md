@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
@@ -614,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
@@ -751,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0647-palindromic-substrings) |
 | [0696-count-binary-substrings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
