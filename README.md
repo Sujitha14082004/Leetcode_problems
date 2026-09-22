@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3321-type-of-triangle](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3321-type-of-triangle) |
+| [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
