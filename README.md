@@ -1013,4 +1013,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
