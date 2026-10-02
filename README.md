@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2549-count-distinct-numbers-on-board) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2571-find-the-pivot-integer) |
+| [2579-count-total-number-of-colored-cells](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2955-account-balance-after-rounded-purchase) |
