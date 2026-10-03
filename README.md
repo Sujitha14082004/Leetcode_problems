@@ -1018,4 +1018,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
