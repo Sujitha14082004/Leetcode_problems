@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3668-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3731-find-missing-elements) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3651-transformed-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3651-transformed-array) |
+| [3668-restore-finishing-order](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3708-longest-fibonacci-subarray](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3708-longest-fibonacci-subarray) |
