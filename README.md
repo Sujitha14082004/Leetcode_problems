@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3396-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3467-transform-array-by-parity) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -826,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3587-minimum-adjacent-swaps-to-alternate-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3587-minimum-adjacent-swaps-to-alternate-parity) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
