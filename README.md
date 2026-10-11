@@ -399,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2689-rearranging-fruits) |
 | [2717-semi-ordered-permutation](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2717-semi-ordered-permutation) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2848-points-that-intersect-with-cars](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2848-points-that-intersect-with-cars) |
@@ -998,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1925-count-square-sum-triples) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2951-find-the-peaks](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
