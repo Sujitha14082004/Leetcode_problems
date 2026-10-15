@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2848-points-that-intersect-with-cars) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2951-find-the-peaks) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -899,6 +901,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
@@ -1037,4 +1040,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
