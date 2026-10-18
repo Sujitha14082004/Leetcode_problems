@@ -575,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2317-maximum-xor-after-operations](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2317-maximum-xor-after-operations) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2469-convert-the-temperature](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2485-find-the-pivot-integer) |
 | [2527-find-xor-beauty-of-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
