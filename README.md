@@ -590,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2579-count-total-number-of-colored-cells](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2579-count-total-number-of-colored-cells) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2679-count-distinct-numbers-on-board) |
+| [2843-count-symmetric-integers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2843-count-symmetric-integers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2929-distribute-candies-among-children-ii) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2955-account-balance-after-rounded-purchase) |
 | [3099-harshad-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3099-harshad-number) |
@@ -1020,6 +1021,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2843-count-symmetric-integers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2843-count-symmetric-integers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2929-distribute-candies-among-children-ii) |
 | [2951-find-the-peaks](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2951-find-the-peaks) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
