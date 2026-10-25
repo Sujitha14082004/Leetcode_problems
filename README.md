@@ -369,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-smallest-index-with-equal-value](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2181-smallest-index-with-equal-value) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
@@ -681,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -754,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-kth-distinct-string-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2248-intersection-of-multiple-arrays) |
