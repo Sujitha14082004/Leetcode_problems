@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
 | [0413-arithmetic-slices](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0485-max-consecutive-ones) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0561-array-partition) |
