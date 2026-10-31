@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1051-height-checker) |
 | [1115-valid-boomerang](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1115-valid-boomerang) |
 | [1200-minimum-absolute-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
@@ -670,6 +671,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1200-minimum-absolute-difference) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1331-rank-transform-of-an-array) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0948-sort-an-array) |
+| [1051-height-checker](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1051-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1217-relative-sort-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1341-split-a-string-in-balanced-strings) |
@@ -1070,4 +1073,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
