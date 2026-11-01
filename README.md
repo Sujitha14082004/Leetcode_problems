@@ -1077,4 +1077,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1051-height-checker) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
