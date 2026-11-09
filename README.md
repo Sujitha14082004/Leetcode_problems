@@ -564,6 +564,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0263-ugly-number) |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0342-power-of-four) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
@@ -1016,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1025-divisor-game) |
 | [1086-divisor-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1086-divisor-game) |
 ## Rolling Hash
@@ -1108,4 +1111,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-find-center-of-star-graph](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1791-find-center-of-star-graph) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
