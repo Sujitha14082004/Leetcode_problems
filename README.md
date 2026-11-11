@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1720-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1720-decode-xored-array) |
 | [1725-number-of-rectangles-that-can-form-the-largest-square](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1725-number-of-rectangles-that-can-form-the-largest-square) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1732-find-the-highest-altitude) |
@@ -657,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1486-xor-operation-in-an-array) |
 | [1610-xor-operation-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1610-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1720-decode-xored-array) |
 | [1839-decode-xored-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1839-decode-xored-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2206-divide-array-into-equal-pairs) |
