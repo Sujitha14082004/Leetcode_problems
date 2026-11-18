@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2869-minimum-operations-to-collect-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3046-split-the-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2951-find-the-peaks](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2951-find-the-peaks) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2843-count-symmetric-integers](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2843-count-symmetric-integers) |
 | [2929-distribute-candies-among-children-ii](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2929-distribute-candies-among-children-ii) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2955-account-balance-after-rounded-purchase) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3099-harshad-number](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3099-harshad-number) |
 | [3280-convert-date-to-binary](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -990,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2614-prime-in-diagonal](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2614-prime-in-diagonal) |
 | [2643-row-with-maximum-ones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2643-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3546-equal-sum-grid-partition-i](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/3546-equal-sum-grid-partition-i) |
 ## Graph
