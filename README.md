@@ -1141,9 +1141,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sieve Theory
 |  |
 | ------- |
+| [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [2523-closest-prime-numbers-in-range](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/2523-closest-prime-numbers-in-range) |
+## Prime Factorization
+|  |
+| ------- |
+| [1390-four-divisors](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1390-four-divisors) |
 <!---LeetCode Topics End-->
