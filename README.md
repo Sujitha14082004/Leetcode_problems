@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0816-design-hashset](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0816-design-hashset) |
 | [0888-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0771-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0812-rotate-string) |
+| [0890-find-and-replace-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [1021-remove-outermost-parentheses](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/1021-remove-outermost-parentheses) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0867-transpose-matrix) |
 | [0888-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0888-fair-candy-swap) |
+| [0890-find-and-replace-pattern](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0890-find-and-replace-pattern) |
 | [0905-sort-array-by-parity](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0905-sort-array-by-parity) |
 | [0924-fair-candy-swap](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0924-fair-candy-swap) |
 | [0940-fruit-into-baskets](https://github.com/Sujitha14082004/Leetcode_problems/tree/master/0940-fruit-into-baskets) |
